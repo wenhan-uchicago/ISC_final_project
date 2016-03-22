@@ -12,3 +12,4 @@ After downloading all files (excluding files in parallel_version_alpha folder), 
 If everything works well (which it should, as I have tested it on both Mac and CentOS systems), you shall be able to see the following plot, indicating that the most probably selection coefficient is s = 0.8.
 
 ![Correct Results](https://github.com/wenhan-uchicago/ISC_final_project/blob/master/result.png)
+

@@ -44,7 +44,7 @@ However, the time and efforts I spent on writing the parallel version definitely
 
 
 ![Results](https://github.com/wenhan-uchicago/ISC_final_project/blob/master/parallel_version_alpha/parallel_results.png)
-
+(The above figure is a Forward-Simulation conducted by SLiM. And the only SNP that is under selection is the center-most 500 region. Therefore, it is obvious that though it did not precisely found the SNP under selection, the most probable one estimated is very close to the correct one (~20kb away). And hundreds of benchmarks have been done, which are not shown here, all support the idea that this estimator is a better option than Chi-square based test.)
 
 
 

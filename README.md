@@ -1,5 +1,5 @@
 # ISC_final_project
-This is the GitHub repository of my ISC final project, which includes the R codes as well as a brief README file.
+This is the GitHub repository of Wenhan Chang's ISC final project, which includes the R codes as well as a brief README file.
 
 ## R packages required
 ggplot2

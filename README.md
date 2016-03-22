@@ -43,6 +43,8 @@ As a painful process, I started writing this as a parallel version which utilize
 However, the time and efforts I spent on writing the parallel version definitely paid back, as it not only trained my ability to write workable codes but also showed me the amazing power of computer clusters. And as a quick "showoff", the following picture shows the results from a 1MB genome region (with ~25,000 markers) that was analyzed by using 48 CPU nodes and finished within ~6 hours (it would take days to finish analyzing the same amount of data without using the power of parallel). Thank you all for the fantastic teaching and I really enjoyed the learning process that taught me how to take R to the limit! Thank you!
 
 
+![Results](https://github.com/wenhan-uchicago/ISC_final_project/blob/master/parallel_version_alpha/parallel_results.png)
+
 
 
 

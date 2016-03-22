@@ -28,4 +28,4 @@ result <- calculate_log_likelihood(0.1)
 result$likelihood <- exp(result$log_likelihood)
 result$likelihood <- result$likelihood / sum(result$likelihood)
 
-ggplot(data = result, aes(x = s, y = likelihood)) + geom_point() + geom_line() + labs(title = "Likelihood of Different s Values", x = "s values", y = "Likelihood") + theme(plot.title = element_text(lineheight=.8, face="bold"))
+ggplot(data = result, aes(x = s, y = likelihood)) + geom_point() + geom_line() + labs(title = "Likelihood of Different s Values", x = "selection coefficients", y = "Likelihood") + theme(plot.title = element_text(lineheight=.8, face="bold"))
